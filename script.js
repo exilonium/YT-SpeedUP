@@ -1,11 +1,12 @@
-
 // ==UserScript==
 // @name        Youtube Speed Control With "a" and "s"
 // @namespace   YoutubeSpeedByExilonium
 // @description Increases the playback speed when the "a" key and decreases when the "s" key is pressed
 // @include     https://www.youtube.com/*
 // @version     1.0.0
+// @downloadURL https://raw.githubusercontent.com/exilonium/YT-SpeedUP/refs/heads/main/script.js
 // @grant       none
+// @license     MIT
 // ==/UserScript==
 
 function pressKey(keyCode) {
